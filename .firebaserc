@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rtdb-home-sav-495fc": {
+      "hosting": {
+        "app": [
+          "rtdb-home-sav-495fc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rtdb-home-sav-495fc"
+  }
+}
