@@ -1,0 +1,7 @@
+{
+  "name": "RTDB-Home-Sav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
